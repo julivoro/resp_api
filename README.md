@@ -11,3 +11,5 @@ Listen localhost:10000
 Testing via Postman app (HTTP client)
 
 Golang server functionality is written by using github.com/gorrila/mux package.
+go get -u github.com/gorilla/mux
+
